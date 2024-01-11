@@ -1,1 +1,1 @@
-alert("cahla ja Bhosdike")
+alert("Only For Notes")
