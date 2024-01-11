@@ -1,0 +1,161 @@
+
+body {
+    background-color: rgb(201, 123, 204);
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    margin: 0%;
+    
+}
+th{
+    border: 2px solid black;
+    
+}
+
+td {
+    border: 2px solid black;    
+}
+
+h3{
+    background-color: brown;
+    color: azure;
+}
+
+a{
+    background-color: black;
+}
+
+div{
+    background-color: rgb(143, 143, 213);
+    font-size: 14px;
+}
+/*span{
+    background-color: rgb(207, 180, 29);
+}
+
+.c1{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    background-color: white;
+}
+
+#i1{
+    color: bisque;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    
+}
+ div>h6
+ {
+    color: green;
+    background-color: black;
+    font-size: large;
+ }
+div article 
+{
+    color: yellow;
+    background-color: black;
+    font-weight: 200;
+    font-size: medium;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a:visited{
+    color: blue;
+}
+
+a:link{
+    color: green;
+}
+a:active{
+    background-color: white;
+}
+
+a:hover{
+    background-color: aqua;
+}
+.box{
+    background-color: aliceblue;
+    margin: 2px;
+    padding: 5px;
+    border: solid black 2px;
+    height: 100px;
+    box-sizing: border-box;
+}
+.box1{
+    background-color: aliceblue;
+    margin: 2px;
+    padding: 5px;
+    border: solid black 2px;
+    box-sizing: border-box;
+    width: 500px;
+    height: 100px;
+    overflow: hidden;
+    text-overflow:ellipsis;
+}
+.f{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    font-size: 16px;    font-weight: 200px;    text-decoration: underline;    text-align: justify;
+    line-height: 20px;
+    letter-spacing: 3px;
+    text-transform: capitalize;
+    text-decoration-color: rgb(192, 13, 19)
+}
+
+.f1{
+    background-color: rgb(203, 96, 96);
+    text-decoration: underline;
+    text-decoration-color: aqua;
+    text-decoration-style: wavy;
+    text-decoration-thickness:3px;
+    text-indent: 50px;
+    text-transform: uppercase;
+
+}
+*/
+.c1{
+    color: red;
+}
+.c2{
+    color: green;
+}
+.c3{
+    color: blue;
+
+}
+.c3{
+    color: brown;
+}
+
+.d1{
+    box-sizing: border-box;
+    width: 1536px;
+    border: 2px solid black;
+    background-color: red;
+    margin: 0px;
+
+
+}
+.d2{
+    box-sizing: border-box;
+    width:60vw;
+    border: 3px solid green;
+    margin:auto;
+    text-align: justify;
+    
+}
+div .d3{
+    font-size: 1.5em;
+
+}
+
+.d4{
+    font-size: 1.5rem;
+}
