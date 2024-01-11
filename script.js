@@ -1,1 +1,1 @@
-alert("Only For Notes")
+alert("Only For Learning")
